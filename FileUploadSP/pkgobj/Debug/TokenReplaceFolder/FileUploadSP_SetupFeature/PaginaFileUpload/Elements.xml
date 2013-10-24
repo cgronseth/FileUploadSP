@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="PaginaFileUpload" Url="Paginas">
+    <File Path="PaginaFileUpload\PaginaFileUpload.aspx" Url="PaginaFileUpload.aspx"
+          Type="GhostableInLibrary" IgnoreIfAlreadyExists="FALSE">
+      <AllUsersWebPart WebPartOrder ="0" WebPartZoneID ="wpzMyZone">
+        <![CDATA[ 
+          <webParts>
+            <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+              <metaData>
+                <type name="FileUploadSP.WPFileUpload.WPFileUpload, FileUploadSP, 
+                Version=1.0.0.0, Culture=neutral, PublicKeyToken=4062c6340457b78c" />
+                <importErrorMessage>No se pudo agregar el web-part.</importErrorMessage>
+              </metaData>
+              <data>
+                <properties>
+                  <property name="Title" type="string">WPFileUpload</property>
+                  <property name="Description" type="string">Demo para mostrar como agregar ficheros con modal de SP.UI</property>               
+                </properties>
+              </data>
+            </webPart>
+          </webParts>
+        ]]>
+      </AllUsersWebPart>
+    </File>
+  </Module>
+</Elements>

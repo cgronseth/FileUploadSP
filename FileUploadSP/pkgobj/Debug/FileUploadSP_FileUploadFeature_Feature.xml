@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="801623e2-e7a7-473b-9403-c4502036ff14" Scope="Site" Title="FileUploadSP Feature">
+  <ElementManifests>
+    <ElementManifest Location="WPFileUpload\Elements.xml" />
+    <ElementFile Location="WPFileUpload\WPFileUpload.webpart" />
+  </ElementManifests>
+</Feature>

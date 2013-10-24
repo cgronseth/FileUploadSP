@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="60cb0285-45a4-4d13-b241-be2eaa32310b" Scope="Web" Title="Setup Feature">
+  <ElementManifests>
+    <ElementManifest Location="PaginaFileUpload\Elements.xml" />
+    <ElementFile Location="PaginaFileUpload\PaginaFileUpload.aspx" />
+  </ElementManifests>
+</Feature>

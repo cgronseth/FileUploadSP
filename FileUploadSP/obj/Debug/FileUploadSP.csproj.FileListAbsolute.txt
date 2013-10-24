@@ -1,0 +1,6 @@
+C:\Users\SE49028\documents\visual studio 2010\Projects\FileUploadSP\FileUploadSP\bin\Debug\FileUploadSP.dll
+C:\Users\SE49028\documents\visual studio 2010\Projects\FileUploadSP\FileUploadSP\bin\Debug\FileUploadSP.pdb
+C:\Users\SE49028\documents\visual studio 2010\Projects\FileUploadSP\FileUploadSP\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\SE49028\documents\visual studio 2010\Projects\FileUploadSP\FileUploadSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SE49028\documents\visual studio 2010\Projects\FileUploadSP\FileUploadSP\obj\Debug\FileUploadSP.dll
+C:\Users\SE49028\documents\visual studio 2010\Projects\FileUploadSP\FileUploadSP\obj\Debug\FileUploadSP.pdb

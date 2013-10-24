@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7cb97fbb-4b4a-460b-aabb-3202943252a3" solutionId="7cb97fbb-4b4a-460b-aabb-3202943252a3" resetWebServer="false" name="FileUploadSP" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4a7ef527-5c25-4b34-affb-879bfe0ef1f7" />
+    <featureReference itemId="44293db0-750c-47f3-9ea0-cb3f99a0a0ac" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="b2d6ce14-ebc5-4b69-893c-92b57ef3082f" />
+  </projectItems>
+</package>
